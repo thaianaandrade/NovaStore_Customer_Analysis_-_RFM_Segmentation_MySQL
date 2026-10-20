@@ -1,8 +1,8 @@
 # NovaStore_Customer_Analysis_-_RFM_Segmentation_MySQL
 # 🗄️ Projeto 2: NovaStore Customer Analysis & RFM Segmentation (MySQL)
 
-![MySQL]()
-![Database Design]()
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database_Design-Relational-blue?style=for-the-badge)
 
 ---
 
