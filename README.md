@@ -1,0 +1,1 @@
+# NovaStore_Customer_Analysis_-_RFM_Segmentation_MySQL
