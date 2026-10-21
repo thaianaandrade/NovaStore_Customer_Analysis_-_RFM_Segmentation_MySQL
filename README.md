@@ -7,7 +7,7 @@
 ---
 
 ## 📌 Visão Geral do Projeto
-Este projeto faz parte do *Portfólio de Análise de Dados da NovaStore, focando-se na **modelação de bases de dados relacionais, **integridade referencial* e *consultas avançadas em SQL* para análise de comportamento do consumidor.
+Este projeto faz parte do *Portfólio de Análise de Dados da NovaStore*, focando-se na *modelação de bases de dados relacionais*, *integridade referencial* e *consultas avançadas em SQL* para análise de comportamento do consumidor.
 
 A partir dos dados de clientes e pedidos, foram construídas consultas para extrair métricas de retenção, identificar clientes inativos e calcular a matriz *RFM (Recência, Frequência e Valor Monetário)* para apoiar decisões de marketing e CRM.
 
